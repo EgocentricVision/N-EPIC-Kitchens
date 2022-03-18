@@ -28,10 +28,10 @@ Then, using a framelike event encoding technique, called [Voxel Grid] (https://o
 ```
 
 
-```
-## BibTeX
-If this repository was utilised, please cite:
 
+## BibTeX
+If this dataset was utilised, please cite:
+```
 @article{plizzari20212,
   title={E $\^{} 2$(GO) MOTION: Motion Augmented Event Stream for Egocentric Action Recognition},
   author={Plizzari, Chiara and Planamente, Mirco and Goletto, Gabriele and Cannici, Marco and Gusso, Emanuele and Matteucci, Matteo and Caputo, Barbara},
