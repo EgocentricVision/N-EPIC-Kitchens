@@ -1,5 +1,5 @@
 # N-EPIC-Kitchens
-N-EPIC-Kitchens: The event-based camera extension of the large-scale EPIC-Kitchens dataset. This dataset is used in the paper E $\^{} 2$(GO) MOTION: Motion Augmented Event Stream for Egocentric Action Recognition (Publication[https://arxiv.org/abs/2112.03596])
+N-EPIC-Kitchens: The event-based camera extension of the large-scale EPIC-Kitchens dataset. This dataset is used in the paper E $\^{} 2$(GO) MOTION: Motion Augmented Event Stream for Egocentric Action Recognition [Publication](https://arxiv.org/abs/2112.03596)
 
 
 
