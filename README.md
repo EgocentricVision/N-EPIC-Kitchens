@@ -9,7 +9,7 @@ Then, using a framelike event encoding technique, called [Voxel Grid](https://op
 
 
 ## Download 
-You can used the download script provided in the file **download_script.sh** or using ```rsync``` in the following command:
+You can used the download script provided in the file **download_script.sh** or using ```rsync``` in the following way:
 
 ```
 rsync -ahP rsync://vandalcluster.polito.it/ekevents/  <path_to_save>
@@ -31,20 +31,26 @@ rsync -ahP rsync://vandalcluster.polito.it/ekevents/events <path_to_save>
 The directory structure:
 
 ```
-├── FOLDER
-|   ├── P01
-|   |   ├── P01_01
-|   |   |   ├── frame_0000000000.jpg
-|   |   |   ├── ...
-|   |   ├── P01_02
+├── voxels_xy_3/
+|   
+|   ├── P01_01
+|   |   ├── event_0000000000.npy
 |   |   ├── ...
-|   ├── P08
-|   |   ├── P08_01
-|   |   ├── ...
-|   ├── P22
-|   |   ├── P22_01
-|   |   ├── ...
+|   ├── P01_02
+|   ├── ...
+| 
+|   ├── P08_01
+|   ├── ...
+|   
+|   ├── P22_01
+|   ├── ...
 ```
+## Contributors:
+
+Chiara Plizzari - email: mailto:chiara.plizzari@polito.it
+Mirco Planamente - email: mailto:mirco.planamente@polito.it
+Gabriele Goletto - email: mailto:gabriele.goletto@polito.it
+Marco Cannici - email: mailto:marco.cannici@polimi.it
 
 
 
