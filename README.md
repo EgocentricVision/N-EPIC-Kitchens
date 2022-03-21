@@ -5,11 +5,11 @@ _"E^2(GO) MOTION: Motion Augmented Event Stream for Egocentric Action Recognitio
 ## Description
 
 Three largest kitchen of EPIC Kitchens-55 dataset (P01-P08-P22) are enanched with the event modality, following the adaptive sampling procedure proposed in [Vid2E](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gehrig_Video_to_Events_Recycling_Video_Datasets_for_Event_Cameras_CVPR_2020_paper.pdf)
-Then, using a framelike event encoding technique, called [Voxel Grid] (https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf), the sparse and asynchronous events are converted in a tensor representation enabling the learning with typical convolutional neural network architectures.
+Then, using a framelike event encoding technique, called [Voxel Grid](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf), the sparse and asynchronous events are converted in a tensor representation enabling the learning with typical convolutional neural network architectures.
 
 
 ## Download 
-You can used the download script provided in the file download_script.sh or using rsync in the following command:
+You can used the download script provided in the file download_script.sh or using $rsync in the following command:
 
 For the voxel_grid 
 For the raw data
