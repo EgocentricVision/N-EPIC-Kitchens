@@ -9,7 +9,7 @@ Then, using a framelike event encoding technique, called [Voxel Grid](https://op
 
 
 ## Download 
-You can used the download script provided in the file **download_script.sh** or using ```rsync``` in the following way:
+You can used the download script provided in the file **download_data.sh** or using ```rsync``` in the following way:
 
 ```
 rsync -ahP rsync://vandalcluster.polito.it/ekevents/  <path_to_save>
