@@ -47,10 +47,10 @@ The directory structure:
 ```
 ## Contributors:
 
-Chiara Plizzari - email: mailto:chiara.plizzari@polito.it
-Mirco Planamente - email: mailto:mirco.planamente@polito.it
-Gabriele Goletto - email: mailto:gabriele.goletto@polito.it
-Marco Cannici - email: mailto:marco.cannici@polimi.it
+Chiara Plizzari - email: chiara.plizzari@polito.it \
+Mirco Planamente - email: mirco.planamente@polito.it \
+Gabriele Goletto - email: gabriele.goletto@polito.it \
+Marco Cannici - email: marco.cannici@polimi.it \
 
 
 
