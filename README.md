@@ -18,13 +18,13 @@ rsync -avhP rsync://vandaldata.polito.it/N-EPIC-Kitchens/  <path_to_save>
 For only **voxel_grid** 
 
 ```
-rsync -avhP rsync://vandalcluster.polito.it/N-EPIC-Kitchens/voxels_xy_3 <path_to_save>
+rsync -avhP rsync://vandaldata.polito.it/N-EPIC-Kitchens/voxels_xy_3 <path_to_save>
 ```
 
 For only **raw event data**
 
 ```
-rsync -avhP rsync://vandalcluster.polito.it/N-EPIC-Kitchens/events <path_to_save>
+rsync -avhP rsync://vandaldata.polito.it/N-EPIC-Kitchens/events <path_to_save>
 ```
 
 
