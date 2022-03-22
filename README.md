@@ -12,19 +12,19 @@ Then, using a framelike event encoding technique, called [Voxel Grid](https://op
 You can used the download script provided in the file **download_data.sh** or using ```rsync``` in the following way:
 
 ```
-rsync -ahP rsync://vandalcluster.polito.it/ekevents/  <path_to_save>
+rsync -avhP rsync://vandaldata.polito.it/N-EPIC-Kitchens/  <path_to_save>
 ```
 
 For only **voxel_grid** 
 
 ```
-rsync -ahP rsync://vandalcluster.polito.it/ekevents/voxels_xy_3 <path_to_save>
+rsync -avhP rsync://vandalcluster.polito.it/N-EPIC-Kitchens/voxels_xy_3 <path_to_save>
 ```
 
 For only **raw event data**
 
 ```
-rsync -ahP rsync://vandalcluster.polito.it/ekevents/events <path_to_save>
+rsync -avhP rsync://vandalcluster.polito.it/N-EPIC-Kitchens/events <path_to_save>
 ```
 
 
