@@ -46,6 +46,8 @@ The directory structure:
 |   ├── ...
 ```
 
+If the entire download of voxels gets broken along the process and you only want to download certain videos to complete the dataset you can visit the [Dropbox directory](https://www.dropbox.com/sh/796vfn26sq2fw6h/AACGTpbrsPjclW7XP2n9hykIa?dl=0) and select the files that you need.
+
 ## Contributors:
 
 Chiara Plizzari - email: chiara.plizzari@polito.it \
